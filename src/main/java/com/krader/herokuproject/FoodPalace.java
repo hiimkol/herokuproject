@@ -1,5 +1,7 @@
 package com.krader.herokuproject;
 
+import java.util.List;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlRootElement;
@@ -52,5 +54,5 @@ public class FoodPalace {
 	public void setPhone(String phone) {
 		this.phone = phone;
 	}
-
+	List<FoodPalace> list;
 }

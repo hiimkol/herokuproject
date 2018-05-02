@@ -16,6 +16,14 @@ public class FoodPalaceDAO {
 		FoodPalace fp1 = new FoodPalace("1", "Tiệm chè anh Bảy", "nhà anh Bảy", "091239754");
 		FoodPalace fp2 = new FoodPalace("2", "Tiệm trà sữa chú Tư", "nhà vợ chú Tư", "54036960");
 		FoodPalace fp3 = new FoodPalace("3", "Tiệm hớt tóc chị Dậu", "ngã tư chị Dậu", "817367907");
+		FoodPalace fp4 = new FoodPalace("4", "Chả cá chú Hào", "ngã tư chị Dậu", "817367907");
+		FoodPalace fp5 = new FoodPalace("5", "Làng sen cô Huy", "Đàn cò Đồng Tháp", "1231241241");
+		FoodPalace fp6 = new FoodPalace("6", "Thịt voi anh Nhi", "Buôn Mê Thuộc", "4214124124");
+		FoodPalace fp7 = new FoodPalace("7", "Thịt gà ngựa Khếnh Tòn", "Hóc Môn", "412412412");
+		FoodPalace fp8 = new FoodPalace("8", "Hành xào Nam xoăn", "Gò Vấp", "817367907");
+		FoodPalace fp9 = new FoodPalace("9", "Cứ vội chú Tấn", "Q9", "1241241242");
+		
+
 
 		foodMap.put(fp1.getId(), fp1);
 		foodMap.put(fp2.getId(), fp2);

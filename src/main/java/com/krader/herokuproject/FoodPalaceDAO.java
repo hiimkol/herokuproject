@@ -28,6 +28,13 @@ public class FoodPalaceDAO {
 		foodMap.put(fp1.getId(), fp1);
 		foodMap.put(fp2.getId(), fp2);
 		foodMap.put(fp3.getId(), fp3);
+		foodMap.put(fp4.getId(), fp4);
+		foodMap.put(fp5.getId(), fp5);
+		foodMap.put(fp6.getId(), fp6);
+		foodMap.put(fp7.getId(), fp7);
+		foodMap.put(fp8.getId(), fp8);
+		foodMap.put(fp9.getId(), fp9);
+
 	}
 
 	public static FoodPalace getFoodPalace(String id) {
